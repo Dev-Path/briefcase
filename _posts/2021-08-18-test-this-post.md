@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Eeeee! Now say "nuclear wessels!"
+title:  "Eeeee! Now say nuclear wessels!"
 author: patrick
 categories: [Test]
 image: assets/images/SoMe-Templates-Blog-Assets-facebook.png
-beforetoc: "A covert contract can simply be put as when someone has an unfulfilled expectations around you but doesn't communicate their concerns"
+beforetoc: "No, I'm Santa Claus! Say what? Okay, I like a challenge. Have you ever tried just turning off the TV, sitting down with your children, and hitting them? I can explain. __It's very valuable.__ *Yes!* In your face, Gandhi!"
 toc: true
 ---
-
 
 Incidentally, you have a dime up your nose. There's no part of that sentence I didn't like! You guys realize you live in a sewer, right? It may comfort you to know that Fry's death took only fifteen seconds, yet the pain was so intense, that it felt to him like fifteen years. And it goes without saying, it caused him to empty his bowels.
 
