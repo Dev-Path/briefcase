@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Eeeee! Now say nuclear wessels!"
+title:  "Eeeeew! Now say nuclear wessels!"
 author: patrick
 categories: [Test]
 image: assets/images/SoMe-Templates-Blog-Assets-facebook.png
