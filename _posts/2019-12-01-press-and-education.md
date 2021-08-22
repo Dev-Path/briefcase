@@ -3,7 +3,7 @@ layout: post
 title:  "Yes, if you make it look like an electrical fire"
 author: patrick
 categories: [ Lifestyle ]
-image: assets/images/7.jpg
+image: assets/images/electric.jpg
 ---
 ## Yes, if you make it look like an electrical fire. When you do things right, people won't be sure you've done anything at all
 
