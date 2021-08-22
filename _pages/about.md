@@ -9,4 +9,4 @@ imageshadow: true
 
 This is a dedicated page for projects and what I have been working on
 
-<!-- <a target="_blank" href="patrickkyei.com/" class="btn btn-dark"> My thoughts goes here &rarr;</a> -->
+<a target="_blank" href="patrickkyei.com/" class="btn btn-dark"> My thoughts goes here &rarr;</a>
