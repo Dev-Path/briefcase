@@ -3,7 +3,7 @@ layout: page
 title: Lets Learn Something Together
 permalink: /about
 comments: false
-image: ''
+image: assets/images/pexels-cottonbro-5076527.jpg
 imageshadow: true
 ---
 
