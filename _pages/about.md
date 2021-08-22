@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lets Learn Something Together
+title: Learning Never Stops
 permalink: /about
 comments: false
 image: assets/images/pexels-cottonbro-5076527.jpg
