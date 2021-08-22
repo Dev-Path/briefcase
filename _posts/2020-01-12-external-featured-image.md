@@ -1,23 +1,50 @@
 ---
 layout: post
-title:  "Memoirs supports external images as featured"
+title:  "You hit me with a cricket bat"
 author: patrick
 categories: [ Lifestyle, Travel ]
 tags: [ France ]
 image: "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80"
 ---
 
-Adding images is a very annoying task, I know that, but "Memoirs" theme has external featured images integrated so your publishing task becomes easier now.
+You know how I sometimes have really brilliant ideas? You hate me; you want to kill me! Well, go on! Kill me! KILL ME! I hate yogurt. It's just stuff with bits in. Heh-haa! Super squeaky bum time!
 
-Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. 
+I'm the Doctor, I'm worse than everyone's aunt. *catches himself* And that is not how I'm introducing myself. You know how I sometimes have really brilliant ideas? Heh-haa! Super squeaky bum time! No, I'll fix it. I'm good at fixing rot. __Call me the Rotmeister.__ *No, I'm the Doctor.* Don't call me the Rotmeister.
 
-> We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically. 
+## No, I'll fix it I'm good at fixing rot. Call me the Rotmeister. No, I'm the Doctor. Don't call me the Rotmeister
 
-Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.
+I'm nobody's taxi service; I'm not gonna be there to catch you every time you feel like jumping out of a spaceship. I hate yogurt. It's just stuff with bits in. I am the last of my species, and I know how that weighs on the heart so don't lie to me!
 
-The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.
+1. You've swallowed a planet!
+2. You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better?
+3. I'm nobody's taxi service; I'm not gonna be there to catch you every time you feel like jumping out of a spaceship.
 
-The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?
+### *Insistently* Bow ties are cool! Come on Amy, I'm a normal bloke, tell me what normal blokes do
 
-We must remember that intelligence is not enough. Intelligence plus character--that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.
+It's art! A statement on modern society, 'Oh Ain't Modern Society Awful?'! Father Christmas. Santa Claus. Or as I've always known him: Jeff. It's a fez. I wear a fez now. Fezes are cool. You hit me with a cricket bat.
 
+* Heh-haa! Super squeaky bum time!
+* It's a fez. I wear a fez now. Fezes are cool.
+* Sorry, checking all the water in this area; there's an escaped fish.
+
+I'm nobody's taxi service; I'm not gonna be there to catch you every time you feel like jumping out of a spaceship. Did I mention we have comfy chairs? Aw, you're all Mr. Grumpy Face today. Annihilate? No. No violence. I won't stand for it. Not now, not ever, do you understand me?! I'm the Doctor, the Oncoming Storm - and you basically meant beat them in a football match, didn't you?
+
+Aw, you're all Mr. Grumpy Face today. Saving the world with meals on wheels. All I've got to do is pass as an ordinary human being. Simple. What could possibly go wrong? They're not aliens, they're Earth…liens!
+
+Saving the world with meals on wheels. I am the last of my species, and I know how that weighs on the heart so don't lie to me! You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better?
+
+Annihilate? No. No violence. I won't stand for it. Not now, not ever, do you understand me?! I'm the Doctor, the Oncoming Storm - and you basically meant beat them in a football match, didn't you? Did I mention we have comfy chairs?
+
+I hate yogurt. It's just stuff with bits in. They're not aliens, they're Earth…liens! Saving the world with meals on wheels. I'm the Doctor, I'm worse than everyone's aunt. *catches himself* And that is not how I'm introducing myself.
+
+Aw, you're all Mr. Grumpy Face today. Sorry, checking all the water in this area; there's an escaped fish. Annihilate? No. No violence. I won't stand for it. Not now, not ever, do you understand me?! I'm the Doctor, the Oncoming Storm - and you basically meant beat them in a football match, didn't you?
+
+Sorry, checking all the water in this area; there's an escaped fish. *Insistently* Bow ties are cool! Come on Amy, I'm a normal bloke, tell me what normal blokes do! No, I'll fix it. I'm good at fixing rot. Call me the Rotmeister. No, I'm the Doctor. Don't call me the Rotmeister.
+
+You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better? I'm nobody's taxi service; I'm not gonna be there to catch you every time you feel like jumping out of a spaceship.
+
+The way I see it, every life is a pile of good things and bad things.…hey.…the good things don't always soften the bad things; but vice-versa the bad things don't necessarily spoil the good things and make them unimportant. I am the last of my species, and I know how that weighs on the heart so don't lie to me!
+
+I am the Doctor, and you are the Daleks! Did I mention we have comfy chairs? It's a fez. I wear a fez now. Fezes are cool. I'm the Doctor. Well, they call me the Doctor. I don't know why. I call me the Doctor too. I still don't know why.
+
+I am the Doctor, and you are the Daleks! You've swallowed a planet! I'm nobody's taxi service; I'm not gonna be there to catch you every time you feel like jumping out of a spaceship. I'm nobody's taxi service; I'm not gonna be there to catch you every time you feel like jumping out of a spaceship.

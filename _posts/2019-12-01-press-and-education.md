@@ -1,18 +1,28 @@
 ---
 layout: post
-title:  " Culinary Arts in Europe by Jean Anthelme Brillat-Savarin"
+title:  "Yes, if you make it look like an electrical fire"
 author: patrick
 categories: [ Lifestyle ]
 image: assets/images/7.jpg
 ---
-The origins of culinary began with primitive humans roughly 2 million years ago. There are various theories as to how early humans used fire to cook meat. According to anthropologist Richard Wrangham, author of Catching Fire: How Cooking Made Us Human, primitive humans simply tossed a raw hunk of meat into the flames and watched it sizzle. Another theory claims humans may first have savoured roasted meat by chance when the flesh of a beast killed in a forest fire was found to be more appetizing and easier to chew and digest than the conventional raw meat.
+## Yes, if you make it look like an electrical fire. When you do things right, people won't be sure you've done anything at all
 
-Culinary techniques improved with the introduction of earthenware and stoneware, the domestication of livestock, and advancements in agriculture. In early civilizations, the primary employers of professional chefs were kings, aristocrats, or priests. The divide between professional chefs cooking for the wealthy and peasants cooking for their families engendered the development of many cuisines.
+Leela, are you alright? You got wanged on the head. Tell them I hate them. I'm a thing. I'll tell them you went down prying the wedding ring off his cold, dead finger.
 
-A great deal of the study of Culinary Arts in Europe was organized by Jean Anthelme Brillat-Savarin, a man famous for his quote "Tell me what you eat, and I will tell you what you are," which has since been mistranslated and oversimplified into "You are what you eat." Other people helped to parse out the different parts of food science and gastronomy. Over time, increasingly deeper and more detailed studies into foods and the Culinary Arts has led to a greater wealth of knowledge.
+One hundred dollars. Oh sure! Blame the wizards! We're rescuing ya. __Oh right.__ *I forgot about the battle.* Who are you, my warranty?!
 
-In Asia, a similar path led to a separate study of the Culinary Arts, which later essentially merged with the Western counterpart. In the modern international marketplace, there is no longer a distinct divide between Western and Eastern foods. Culinary Arts students today, generally speaking, are introduced to the different cuisines of many different cultures from around the world.
+## Our love isn't any different from yours, except it's hotter, because I'm involved
 
-The Culinary Arts, in the Western world, as a craft and later as a field of study, began to evolve at the end of the Renaissance period. Prior to this, chefs worked in castles, cooking for kings and queens, as well as their families, guests, and other workers of the castle. As Monarchical rule became phased out as a modality, the chefs took their craft to inns and hotels. From here, the craft evolved into a field of study.
+I was all of history's great robot actors - Acting Unit 0.8; Thespomat; David Duchovny! Please, Don-Bot… look into your hard drive, and open your mercy file! What are you hacking off? Is it my torso?! 'It is!' My precious torso!
 
-Before cooking institutions, professional cooks were mentors for individual students who apprenticed under them. In 1879, the first cooking school was founded in the United States: the Boston Cooking School. This school standardized cooking practices and recipes, and laid the groundwork for the culinary arts schools that would follow.
+1. Isn't it true that you have been paid for your testimony?
+2. I barely knew Philip, but as a clergyman I have no problem telling his most intimate friends all about him.
+3. What are you hacking off? Is it my torso?! 'It is!' My precious torso!
+
+### Anyone who laughs is a communist
+
+A sexy mistake. Yes. You gave me a dollar and some candy. Who's brave enough to fly into something we all keep calling a death sphere? Ugh, it's filthy! Why not create a National Endowment for Strip Clubs while we're at it?
+
+* I've been there. My folks were always on me to groom myself and wear underpants. What am I, the pope?
+* Whoa a real live robot; or is that some kind of cheesy New Year's costume?
+* So I really am important? How I feel when I'm drunk is correct?
