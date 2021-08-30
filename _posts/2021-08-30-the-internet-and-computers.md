@@ -26,4 +26,4 @@ Now with the power of the internet we can keep in touch with our loved ones who 
 
 The internet has made people like Bill Gates, Mark Zuggerberg, Jeff Bezoz and many other like them billonaires. How?
 
-If you want to find out the power of the internet and what you can do with it, [look into this](https://www.youtube.com/c/theroadmap/playlists)
+If you want to find out the power of the internet and what you can do with it, [look into this](https://www.youtube.com/watch?v=Dxcc6ycZ73M&list=PLkZYeFmDuaN21nQjzE4RLLNccK_YP0P0)
