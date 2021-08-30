@@ -5,7 +5,6 @@ author: patrick
 categories: [Git, Github]
 image: assets/images/git-and-github.jpg
 beforetoc: "Fork? but it adds many of its own features"
-toc: true
+toc: false
 ---
 
-## Introduction
