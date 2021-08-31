@@ -8,7 +8,7 @@ beforetoc: "Most people have little clue how the internet came about. Different 
 toc: false
 ---
 
-Maybe you've not even thought about what the internet is, how it came about or how you are able to send an email to a family member or make a Whatsapp call to a friend. The interesting thing is many years ago you couldn't do any of this but you are able to do so many things because of the Internet.
+Maybe you've not even thought about what the internet is, how it came about or how you are able to send an email to a family member or make a Whatsapp call to a friend. The interesting thing is, many years ago you couldn't do any of these. Wih the power of the Internet now you are able to do so many amazing things.
 
 ### So what is the internet?
 
