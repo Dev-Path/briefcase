@@ -19,7 +19,7 @@ It happens Github has a learning lab that can walk you through how to use the te
 
 Learn more about git and github with hands-on practice [here](https://lab.github.com/githubtraining/first-week-on-github)
 
-**What I learnt from the practical session**
+## What I learnt from the practical session
 
 ### Github Pages
 
@@ -40,7 +40,6 @@ How do I create my own blog?
 
 **What I built?**
 I built a [simple personal blog](https://dev-path.github.io/github-pages-with-jekyll/) site with GitHub Pages.
-
 
 ## Reviewing pull requests
 
@@ -64,7 +63,7 @@ Request pull request reviews
 Accept changes introduced by a pull request review
 
 **What I built?**
-[I built a tetris game!](https://dev-path.github.io/reviewing-a-pull-request/
+[I built a tetris game!](https://dev-path.github.io/reviewing-a-pull-request/)
 
 ## Managing merge conflicts
 
