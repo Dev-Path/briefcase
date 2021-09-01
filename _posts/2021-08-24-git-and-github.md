@@ -39,7 +39,7 @@ How do I make sites with GitHub Pages?
 How do I create my own blog?
 
 **What I built?**
-I built a simple personal blog site with GitHub Pages.
+I built a [simple personal blog](https://dev-path.github.io/github-pages-with-jekyll/) site with GitHub Pages.
 
 
 ## Reviewing pull requests
@@ -64,5 +64,38 @@ Request pull request reviews
 Accept changes introduced by a pull request review
 
 **What I built?**
-I built a tetris game!
+[I built a tetris game!](https://dev-path.github.io/reviewing-a-pull-request/
 
+## Managing merge conflicts
+
+**In this course I learnt:**
+
+What is a merge conflict and what causes them?
+How do you resolve merge conflicts?
+How do you reduce merge conflicts?
+And I was able to:
+
+Understand how merging happens and what causes merge conflicts
+Resolve simple and complex merge conflicts with ease
+Share best practices to reduce merge conflicts with your team
+
+**What I built?**
+[A resume hosting page](https://dev-path.github.io/merge-conflicts/)
+
+## Securing your Workflow
+
+**In this course I learnt how to:**
+
+Enable security features for repositories hosted in GitHub
+Detect vulnerable dependencies in repositories when notified by GitHub's security alerts
+Utilize best practices to keep sensitive data out of repositories
+
+I was able to find answers to questions like:
+
+How do I protect my open-source project?
+What should I keep out of my GitHub repository?
+How do I keep sensitive data out of my repository?
+How do I keep track of package vulnerabilities?
+
+**What I built?**
+[A memory game](https://dev-path.github.io/security-on-github/)
