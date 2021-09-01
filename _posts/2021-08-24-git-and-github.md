@@ -27,16 +27,16 @@ You can have your own, organization, and project sites on GitHub. With GitHub Pa
 
 **In this course, I learnt how to:**
 
-Enable GitHub Pages
-Choose a theme with Jekyll
-Use YAML front matter
-Customize your site
-Create and edit blog posts
-You'll know the answers to questions like:
+* Enable GitHub Pages
+* Choose a theme with Jekyll
+* Use YAML front matter
+* Customize your site
+* Create and edit blog posts
+* You'll know the answers to questions like:
 
-What is GitHub pages?
-How do I make sites with GitHub Pages?
-How do I create my own blog?
+* What is GitHub pages?
+* How do I make sites with GitHub Pages?
+* How do I create my own blog?
 
 **What I built?**
 I built a [simple personal blog](https://dev-path.github.io/github-pages-with-jekyll/) site with GitHub Pages.
@@ -44,23 +44,24 @@ I built a [simple personal blog](https://dev-path.github.io/github-pages-with-je
 ## Reviewing pull requests
 
 **In this course, I learnt:**
-What a pull request is?
-How do I request, review, or comment on a pull request?
-How do I accept changes introduced by a pull request review?
-What are the responsibilities of a reviewer?
-What's a CODEOWNERS file?
-What's a diff and how do I use it?
-How do I implement changes from a pull request review?
-How can I suggest a change when reviewing a pull request?
+
+* What a pull request is?
+* How do I request, review, or comment on a pull request?
+* How do I accept changes introduced by a pull request review?
+* What are the responsibilities of a reviewer?
+* What's a CODEOWNERS file?
+* What's a diff and how do I use it?
+* How do I implement changes from a pull request review?
+* How can I suggest a change when reviewing a pull request?
 
 **And I was able to:**
 
-Create a pull request
-Comment on pull requests
-Leave reviews on pull requests
-Know what’s expected when reviewing pull requests
-Request pull request reviews
-Accept changes introduced by a pull request review
+* Create a pull request
+* Comment on pull requests
+* Leave reviews on pull requests
+* Know what’s expected when reviewing pull requests
+* Request pull request reviews
+* Accept changes introduced by a pull request review
 
 **What I built?**
 [I built a tetris game!](https://dev-path.github.io/reviewing-a-pull-request/)
@@ -69,14 +70,15 @@ Accept changes introduced by a pull request review
 
 **In this course I learnt:**
 
-What is a merge conflict and what causes them?
-How do you resolve merge conflicts?
-How do you reduce merge conflicts?
+* What is a merge conflict and what causes them?
+* How do you resolve merge conflicts?
+* How do you reduce merge conflicts?
+
 And I was able to:
 
-Understand how merging happens and what causes merge conflicts
-Resolve simple and complex merge conflicts with ease
-Share best practices to reduce merge conflicts with your team
+* Understand how merging happens and what causes merge conflicts
+* Resolve simple and complex merge conflicts with ease
+* Share best practices to reduce merge conflicts with your team
 
 **What I built?**
 [A resume hosting page](https://dev-path.github.io/merge-conflicts/)
@@ -85,16 +87,16 @@ Share best practices to reduce merge conflicts with your team
 
 **In this course I learnt how to:**
 
-Enable security features for repositories hosted in GitHub
-Detect vulnerable dependencies in repositories when notified by GitHub's security alerts
-Utilize best practices to keep sensitive data out of repositories
+* Enable security features for repositories hosted in GitHub
+* Detect vulnerable dependencies in repositories when notified by GitHub's security alerts
+* Utilize best practices to keep sensitive data out of repositories
 
 I was able to find answers to questions like:
 
-How do I protect my open-source project?
-What should I keep out of my GitHub repository?
-How do I keep sensitive data out of my repository?
-How do I keep track of package vulnerabilities?
+* How do I protect my open-source project?
+* What should I keep out of my GitHub repository?
+* How do I keep sensitive data out of my repository?
+* How do I keep track of package vulnerabilities?
 
 **What I built?**
 [A memory game](https://dev-path.github.io/security-on-github/)
