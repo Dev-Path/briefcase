@@ -16,3 +16,5 @@ As a developer or someone in the tech industry, one of the technologies or tools
 
 I'm not gonna walk you through how to use git and github, that'd be reinventing the wheel. Instead I'm gonna point you in a very good direction.
 It happens Github has a learning lab that can walk you through how to use the technology - I found this out later after struggling many times to find a a good and hands-on resource that could really help me master git and github.
+
+Learn more about git and github with hands-on practice [here](https://lab.github.com/githubtraining/first-week-on-github)
