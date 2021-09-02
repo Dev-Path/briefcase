@@ -32,7 +32,8 @@ You can have your own, organization, and project sites on GitHub. With GitHub Pa
 * Use YAML front matter
 * Customize your site
 * Create and edit blog posts
-* You'll know the answers to questions like:
+
+I was able to answer questions like:
 
 * What is GitHub pages?
 * How do I make sites with GitHub Pages?
