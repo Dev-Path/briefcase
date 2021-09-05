@@ -6,4 +6,4 @@ categories: [Programming, Challenges]
 image: assets/images/coding.jpg
 beforetoc: ""
 toc: 
-
+---
