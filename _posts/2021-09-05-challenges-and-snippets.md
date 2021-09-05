@@ -8,6 +8,8 @@ beforetoc: ""
 toc: 
 ---
 
+When elements have a specified position, such as fixed or relative, the CSS offset properties **right**, **left**, **top**, and **bottom** can be used in animation rules to create movement.
+
 ```html
 <style>
   div {
