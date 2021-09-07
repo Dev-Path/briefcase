@@ -131,6 +131,7 @@ Here's an example of the CSS rules that accomplish this:
   overflow: hidden;
 }
 ```
+
 Note: The following CSS approaches will NOT do the same thing:
 
 display: none; or visibility: hidden; hides content for everyone, including screen reader users
