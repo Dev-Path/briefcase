@@ -84,3 +84,9 @@ space-evenly: Distributes space evenly between the flex items with a full space 
 * center: align items to the center. For rows, this vertically aligns items (equal space above and below the items). For columns, this horizontally aligns them (equal space to the left and right of the items).
 * stretch: stretch the items to fill the flex container. For example, rows items are stretched to fill the flex container top-to-bottom. This is the default value if no align-items value is specified.
 * baseline: align items to their baselines. Baseline is a text concept, think of it as the line that the letters sit on.
+
+flex-wrap property tells CSS to wrap items. This means extra items move into a new row or column. The break point of where the wrapping happens depends on the size of the items and the size of the container. flex-wrap properties include nowrap, wrap, wrap-reverse.
+
+The flex-shrink property takes numbers as values. The higher the number, the more it will shrink compared to the other items in the container. For example, if one item has a flex-shrink value of 1 and the other has a flex-shrink value of 3, the one with the value of 3 will shrink three times as much as the other.
+
+The opposite of the flex-shrink is flex-grow.
