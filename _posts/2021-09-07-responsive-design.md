@@ -57,3 +57,16 @@ Here is an example that sets a body tag to 30% of the viewport's width.
 ```css
 body { width: 30vw; }
 ```
+### CSS Flexbox
+
+Placing the CSS property display: flex; on an element allows you to use other flex properties to build a responsive page.
+
+Adding display: flex to an element turns it into a flex container. This makes it possible to align any children of that element into rows or columns. You do this by adding the flex-direction property to the parent item and setting it to row or column. Creating a row will align the children horizontally, and creating a column will align the children vertically.
+
+Other options for flex-direction are row-reverse, column and column-reverse. Setting a flex container as a row places the flex items side-by-side from left-to-right.
+
+A flex container set as a column places the flex items in a vertical stack from top-to-bottom. For each, the direction the flex items are arranged is called the main axis. For a row, this is a horizontal line that cuts through each item. And for a column, the main axis is a vertical line through the items.
+
+![flex display](/assets/images/flex-display.png)
+
+There are several options for how to space the flex items along the line that is the main axis. One of the most commonly used is justify-content: center;, which aligns all the flex items to the center inside the flex container.
