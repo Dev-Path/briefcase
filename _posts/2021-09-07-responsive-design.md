@@ -67,7 +67,7 @@ Other options for flex-direction are row-reverse, column and column-reverse. Set
 
 A flex container set as a column places the flex items in a vertical stack from top-to-bottom. For each, the direction the flex items are arranged is called the main axis. For a row, this is a horizontal line that cuts through each item. And for a column, the main axis is a vertical line through the items.
 
-![flex display](/assets/images/flex-display.png)
+![flex display](../assets/images/flex-display.png)
 
 There are several options for how to space the flex items along the line that is the main axis. One of the most commonly used is justify-content: center;, which aligns all the flex items to the center inside the flex container.
 
