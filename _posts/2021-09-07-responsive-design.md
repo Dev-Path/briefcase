@@ -90,3 +90,32 @@ flex-wrap property tells CSS to wrap items. This means extra items move into a n
 The flex-shrink property takes numbers as values. The higher the number, the more it will shrink compared to the other items in the container. For example, if one item has a flex-shrink value of 1 and the other has a flex-shrink value of 3, the one with the value of 3 will shrink three times as much as the other.
 
 The opposite of the flex-shrink is flex-grow.
+
+#### Grid-Properties
+
+Turn any HTML element into a grid container by setting its display property to grid. This gives you the ability to use all the other properties associated with CSS Grid.
+
+Simply creating a grid element doesn't get you very far. You need to define the structure of the grid as well. To add some columns to the grid, use the grid-template-columns property on a grid container as demonstrated below:
+
+```css
+.container {
+  display: grid;
+  grid-template-columns: 50px 50px;
+}
+```
+grid-template-columns create the structues from top-to-bottom.
+
+To adjust the rows manually, use the grid-template-rows property in the same way you used grid-template-columns in the previous challenge.
+
+grid-column-gap creates a gap between the elements vice versa grip-row-gap
+
+grid-gap is a shorthand property for grid-row-gap and grid-column-gap
+
+To control the number of columns an item will consume, you can use the grid-column property in conjunction with the line numbers you want the item to start and stop at.
+
+Here's an example:
+
+```css
+grid-column: 1 / 3;
+```
+This will make the item start at the first vertical line of the grid on the left and span to the 3rd line of the grid, consuming two columns vice versa grid-row.
