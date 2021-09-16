@@ -8,29 +8,33 @@ beforetoc: ""
 toc: false
 ---
 
-Actions and Workflows
+## Actions and Workflows
+
 There are two components to using GitHub Actions that we'll cover:
 
 the action itself
+
 a workflow that uses action(s)
+
 A workflow can contain many actions. Each action has its own purpose. We'll put the files relating to the action in their own directories.
 
-Types of Actions
+## Types of Actions
+
 Actions come in two types: container actions and JavaScript actions.
 
-Docker container actions allow the environment to be packaged with the GitHub Actions code and can only execute in the GitHub-Hosted Linux environment.
+**Docker container actions** allow the environment to be packaged with the GitHub Actions code and can only execute in the GitHub-Hosted Linux environment.
 
-JavaScript actions decouple the GitHub Actions code from the environment allowing faster execution but accepting greater dependency management responsibility.
+**JavaScript actions** decouple the GitHub Actions code from the environment allowing faster execution but accepting greater dependency management responsibility.
 
 ## Step 1: Add a Dockerfile
 
 Create a file titled action-a/Dockerfile
 
-Create a directory action-a 
+Create a directory action-a
 
-Create a docker file Dockerfile 
+Create a docker file Dockerfile
 
-Add the following script in the Dockerfile: 
+Add the following script in the Dockerfile:
 
 FROM debian:9.5-slim
 
@@ -44,7 +48,7 @@ The entrypoint.sh script will be run in Docker, and it will define what the acti
 
 Add the following content to the entrypoint.sh file:
 
-#!/bin/sh -l
+# !/bin/sh -l
 
 sh -c "echo Hello world my name is $INPUT_MY_NAME"
 
@@ -84,6 +88,7 @@ on: push
 ## Step 5: Run an action from your workflow file
 
 Edit .github/workflows/main.yml to append the following content:
+
 jobs:
   build:
     name: Hello world action
