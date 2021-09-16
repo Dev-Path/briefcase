@@ -5,7 +5,7 @@ author: patrick
 categories: [Responsiveness, Web]
 image: assets/images/responsive.jpg
 beforetoc: "Responsive Design"
-toc: false
+toc: true
 ---
 
 ## Resonspive Design with Media Queries
