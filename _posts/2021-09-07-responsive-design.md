@@ -5,7 +5,7 @@ author: patrick
 categories: [Responsiveness, Web]
 image: assets/images/responsive.jpg
 beforetoc: "Responsive Design"
-toc: false
+toc: true
 ---
 
 ## Resonspive Design with Media Queries
@@ -118,4 +118,169 @@ Here's an example:
 ```css
 grid-column: 1 / 3;
 ```
-This will make the item start at the first vertical line of the grid on the left and span to the 3rd line of the grid, consuming two columns vice versa grid-row.
+This will make the item start at the first vertical(this will move it across from left to right) line of the grid on the left and span to the 3rd line of the grid, consuming two columns vice versa grid-row.
+
+In CSS Grid, the content of each item is located in a box which is referred to as a cell. You can align the content's position within its cell horizontally using the justify-self property on a grid item. By default, this property has a value of stretch, which will make the content fill the whole width of the cell. This CSS Grid property accepts other values as well:
+
+start: aligns the content at the left of the cell,
+
+center: aligns the content in the center of the cell,
+
+end: aligns the content at the right of the cell.
+
+**align-self**: aligns the content from top to bottom in the cell.
+
+Using **justify-items** on the parent container aligns all children items in one direction
+
+You can group cells of your grid together into an area and give the area a custom name. Do this by using grid-template-areas on the container like this:
+
+```css
+.container {
+    font-size: 40px;
+    min-height: 300px;
+    width: 100%;
+    background: LightGray;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-gap: 10px;
+    grid-template-areas:
+      "header header header"
+      "advert content content"
+      "footer footer footer";
+  }
+```
+The code above groups the cells of the grid into four areas; header, advert, content, and footer. Every word represents a cell and every pair of quotation marks represent a row.
+
+After creating an area template for your grid container, as shown in the previous challenge, you can place an item in your custom area by referencing the name you gave it. To do this, you use the grid-area property on an item like this:
+
+```css
+.item1 {
+  grid-area: header;
+}
+```
+This lets the grid know that you want the item1 class to go in the area named header. In this case, the item will use the entire top row because that whole row is named as the header area.
+
+The grid-area property you learned in the last challenge can be used in another way. If your grid doesn't have an areas template to reference, you can create an area on the fly for an item to be placed like this:
+
+```css
+item1 { grid-area: 1/1/2/4; }
+```
+This is using the line numbers you learned about earlier to define where the area for this item will be. The numbers in the example above represent these values:
+
+grid-area: horizontal line to start at / vertical line to start at / horizontal line to end at / vertical line to end at;
+So the item in the example will consume the rows between lines 1 and 2, and the columns between lines 1 and 4
+
+repeat function repeats the number of rows or columns to the specified number.
+
+Here's an example that would create the 100 row grid, each row at 50px tall.
+
+```css
+grid-template-rows: repeat(100, 50px);
+```
+or 
+
+```css
+grid-template-columns: repeat(2, 1fr 50px) 20px;
+````
+or
+
+```css
+grid-template-columns: 1fr 50px 1fr 50px 20px;
+```
+or
+
+```css
+grid-template-columns: repeat(3, minmax(90px, 1fr));
+```
+
+There's another built-in function to use with grid-template-columns and grid-template-rows called minmax. It's used to limit the size of items when the grid container changes size. To do this you need to specify the acceptable size range for your item. 
+
+Here is an example:
+
+```css
+grid-template-columns: 100px minmax(50px, 200px);
+```
+
+The repeat function comes with an option called auto-fill. This allows you to automatically insert as many rows or columns of your desired size as possible depending on the size of the container. You can create flexible layouts when combining auto-fill with minmax, like this:
+
+```css
+repeat(auto-fill, minmax(60px, 1fr));
+```
+When the container changes size, this setup keeps inserting 60px columns and stretching them until it can insert another one. Note: If your container can't fit all your items on one row, it will move them down to a new one.
+
+**auto-fit** works almost identically to auto-fill. The only difference is that when the container's size exceeds the size of all the items combined, auto-fill keeps inserting empty rows or columns and pushes your items to the side, while auto-fit collapses those empty rows or columns and stretches your items to fit the size of the container.
+
+Note: If your container can't fit all your items on one row, it will move them down to a new one.
+
+In the second grid, use auto-fit with repeat to fill the grid with columns that have a minimum width of 60px and maximum of 1fr. Then resize the preview to see the difference.
+
+#### Media Screens
+
+```css
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+  
+}
+```
