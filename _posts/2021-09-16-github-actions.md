@@ -2,7 +2,7 @@
 layout: post
 title:  "Your First Github Action"
 author: patrick
-categories: [Github, ]
+categories: [Github, Flows]
 image: assets/images/github-action.jpg
 beforetoc: ""
 toc: false
@@ -48,7 +48,7 @@ The entrypoint.sh script will be run in Docker, and it will define what the acti
 
 Add the following content to the entrypoint.sh file:
 
-#!/bin/sh -l
+# !/bin/sh -l
 
 sh -c "echo Hello world my name is $INPUT_MY_NAME"
 
