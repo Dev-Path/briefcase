@@ -118,3 +118,14 @@ Design a music player. Consider the controls, placements, imagery such as the ar
 ![day nine](../assets/images/ux/music-player-thumbnail.png)
 
 [Demo Page](https://www.figma.com/proto/MWmmqYDMUMFboVXyzHgdJn/Daily-UI-%3A%3A-009?node-id=2%3A2&viewport=241%2C48%2C1&scaling=scale-down&page-id=0%3A1%3Ffuid%3D901914268454600757)
+
+## Daily UI :: 010
+
+Design Hint...
+
+Design a social share button/icon and be mindful of the size, imagery, placement, and purpose for sharing.
+
+
+![day ten](../assets/images/ux/social-share-thumbnail.png)
+
+[Demo Page](https://www.figma.com/proto/NKwvmYSIwV8sggoSJ1406W/Daily-UI-%3A%3A-010?node-id=2%3A255&viewport=241%2C48%2C1&scaling=min-zoom&page-id=0%3A1%3Ffuid%3D901914268454600757)
