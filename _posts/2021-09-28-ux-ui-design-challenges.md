@@ -125,7 +125,16 @@ Design Hint...
 
 Design a social share button/icon and be mindful of the size, imagery, placement, and purpose for sharing.
 
-
 ![day ten](../assets/images/ux/social-share-thumbnail.png)
+
+[Demo Page](https://www.figma.com/proto/NKwvmYSIwV8sggoSJ1406W/Daily-UI-%3A%3A-010?node-id=2%3A255&viewport=241%2C48%2C1&scaling=min-zoom&page-id=0%3A1%3Ffuid%3D901914268454600757)
+
+## Daily UI :: 011
+
+Design Hint...
+
+Design a Flash Message with both the outcome for an error and success. Is it for a sign up form? A download/upload message?
+
+![day ten](../assets/images/ux/flash-message-thumbnail.png)
 
 [Demo Page](https://www.figma.com/proto/NKwvmYSIwV8sggoSJ1406W/Daily-UI-%3A%3A-010?node-id=2%3A255&viewport=241%2C48%2C1&scaling=min-zoom&page-id=0%3A1%3Ffuid%3D901914268454600757)
