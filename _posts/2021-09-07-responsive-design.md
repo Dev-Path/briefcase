@@ -54,6 +54,12 @@ The four different viewport units are:
 * vmax (viewport maximum): 100vmax would be 100% of the viewport's bigger dimension (height or width).
 Here is an example that sets a body tag to 30% of the viewport's width.
 
+### ems and rems
+
+ems update the size of an element relative to the size of the parent element.
+
+rems update the size of an element with respect to root element, which is either the html or :: root element.
+
 ```css
 body { width: 30vw; }
 ```
